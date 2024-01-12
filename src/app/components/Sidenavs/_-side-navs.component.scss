@@ -1,0 +1,12 @@
+.div-1 {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: max-content auto;
+    grid-column-gap: 0;
+    grid-row-gap: 0;
+}
+
+.tab-navbar-1 {
+    border-bottom: 1px solid #ccc;
+}
+
